@@ -1,4 +1,5 @@
 ## x is a N X N matrix
+##Constrct a list which contains a matrix and its inverse
 makeCacheMatrix <- function(x = matrix()) { 
         inverse <- NULL
         set <- function(y) {
